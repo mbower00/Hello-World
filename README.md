@@ -11,5 +11,5 @@ The program is written in **the Python language**. Python is a *great* language 
 
 # Useful Websites
 
-- [Youtube: Using Print | Python for Beginners [5 of 44]](https://www.youtube.com/watch?v=FhoASwgvZHk)
+- [](https://www.youtube.com/watch?v=FhoASwgvZHk)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
